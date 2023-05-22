@@ -1,0 +1,7 @@
+server/node_modules
+server/package-lock.json
+server/.env
+
+public/node_modules
+public/package-lock.json
+public/.env
